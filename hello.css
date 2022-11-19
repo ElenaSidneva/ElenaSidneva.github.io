@@ -1,0 +1,29 @@
+h1{
+    color: rgb(3, 125, 125);
+}
+p{
+    margin: 10px 10px;
+}
+table{
+    padding: 10px 10px;
+    border: 10px dashed rgb(4, 97, 105);
+}
+a:link{
+    color: rgb(0, 208, 255);
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(255, 0, 204);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 128, 107);
+    text-decoration: underline;
+}
+a:active{
+    color: rgb(255, 174, 0);
+    text-decoration: none;
+}
+#right{
+	float:right;
+}
